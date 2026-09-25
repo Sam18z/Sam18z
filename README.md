@@ -37,4 +37,4 @@ An Excel-based dashboard project focused on analyzing flight operations and reve
 
 ## 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/sam-s
+- LinkedIn: linkedin.com/in/sam18z
