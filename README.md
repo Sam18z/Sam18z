@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Sam 👋
 
-<!--
-**Sam18z/Sam18z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm currently learning Data Analytics and building practical projects to improve my skills in data analysis and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Microsoft Excel
+- Advanced Excel
+- SQL
+- Python
+- Power BI
+- Tableau
+- Data Visualization
+
+## 📊 Project
+
+### ✈️ Flight Operations & Revenue Analysis
+
+An Excel-based dashboard project focused on analyzing flight operations and revenue performance.
+
+**Tools & Skills Used:**
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
+- Slicers
+- KPI Analysis
+- Data Visualization
+- Dashboard Creation
+
+## 🎯 Currently Learning
+
+- SQL
+- Python for Data Analysis
+- Power BI
+- Data Visualization
+
+## 📫 Connect With Me
+
+- LinkedIn: linkedin.com/in/sam-s
